@@ -1,0 +1,17 @@
+{
+  "name": "@wnynya/websocket-server",
+  "version": "1.0.10",
+  "description": "@wnynya/websocket-server",
+  "author": "Wany <sung@wany.io> (https://wany.io)",
+  "main": "websocket-server.mjs",
+  "dependencies": {
+    "@wnynya/auth": "^1.0.4",
+    "@wnynya/crypto": "^0.1.2",
+    "ws": "^8.5.0"
+  },
+  "devDependencies": {
+    "@wnynya/express-middlewares": "^1.2.11",
+    "@wnynya/mysql-client": "^0.2.12",
+    "express": "^4.18.2"
+  }
+}
